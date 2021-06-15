@@ -3,7 +3,7 @@
 
 --------- Visual Studio Template / MuckTemplate for BepInEx, with thunderstore.io support!
 
-Place this template in "%documents%\Visual Studio 2019\Templates\ProjectTemplates"
+Place this template in "%documents%\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\"
 
 In the file "GameDir.targets", be sure to changle the line to match your installation path. " <GameDir>yoursteampath\steamapps\common\Muck</GameDir> "
 Be sure to have your publicised assemblies in tact.
