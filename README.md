@@ -12,3 +12,5 @@ when creating a New project, from the dropdown list, if you followed the steps, 
 
 
 This template is not needed if you only intend to play with the mods, and not develop them. so you can safely delete the MuckTemplate folder.
+
+Join the Modding discord! https://discord.gg/M27wjFAfTQ
