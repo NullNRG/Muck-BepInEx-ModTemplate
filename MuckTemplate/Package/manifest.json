@@ -4,6 +4,6 @@
   "version_number": "1.0.0",
   "website_url": "",
   "dependencies": [
-    "BepInExPack"
+    "BepInEx-BepInExPack_Muck-5.4.1100"
   ]
 }
