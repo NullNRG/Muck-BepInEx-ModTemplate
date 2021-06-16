@@ -2,6 +2,6 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
   <PropertyGroup>
-    <GameDir>F:\Games\SteamLibrary\steamapps\common\Muck</GameDir>
+    <GameDir>YourInstallPath\SteamLibrary\steamapps\common\Muck</GameDir>
   </PropertyGroup>
 </Project>
