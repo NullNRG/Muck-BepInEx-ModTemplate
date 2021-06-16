@@ -15,6 +15,6 @@ the files in \MuckTemplate\Project\ will be setup and prepared for your project,
 
 When you build your project, the .dll will also live in "YourProjectFolder%\Project\Plugins\
 you only need to verify your dependencies and versioning in manifest.json, your readme.md is descriptive of your mod, your icon.png must be 256x256 (i've provided a default one for you to use, or incase you forget )
-build your project, and select all files and folders in the "YourProjectFolder%\Project\ , and compress it into a .zip file.
+build your project, and select all files and folders in the "YourProjectFolder\Project\ , and compress it into a .zip file.
 
 Join the Modding discord! https://discord.gg/M27wjFAfTQ
