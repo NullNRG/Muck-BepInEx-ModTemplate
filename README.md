@@ -5,7 +5,7 @@
 
 Place this template in "%documents%\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\"
 
-In the file "GameDir.targets", be sure to change the line to match your installation path. " <GameDir>yoursteampath\steamapps\common\Muck</GameDir> "
+In the file "GameDir.targets", be sure to change the line to match your installation path. " <GameDir>yoursteampath\Muck</GameDir> "
 Be sure to have your publicised assemblies in tact.
 
 when creating a New project, from the dropdown list, if you followed the steps, you will have a "Mods" category, with this template as an option.
