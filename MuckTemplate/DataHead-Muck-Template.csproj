@@ -312,4 +312,9 @@
   <PropertyGroup>
     <PostBuildEvent>xcopy "$(TargetDir)" "$(GameDir)\Bepinex\plugins\$(ProjectName)\" /q /s /y /i</PostBuildEvent>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="packager.bat">
+      <Visible>false</Visible>
+    </None>
+  </ItemGroup>
 </Project>
