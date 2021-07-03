@@ -18,7 +18,7 @@
     <Project TargetFileName="DataHead-Muck-Template.csproj" File="DataHead-Muck-Template.csproj" ReplaceParameters="true">
       <ProjectItem ReplaceParameters="false" TargetFileName="GameDir.targets">GameDir.targets</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="Main.cs">Main.cs</ProjectItem>
-      <ProjectItem ReplaceParameters="false" TargetFileName="packager.bat">packager.bat</ProjectItem>
+      <ProjectItem ReplaceParameters="false">packager.bat</ProjectItem>
       <Folder Name="Package" TargetFolderName="Package">
         <ProjectItem ReplaceParameters="false" TargetFileName="icon.png">icon.png</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="manifest.json">manifest.json</ProjectItem>
